@@ -33,4 +33,4 @@ To solve these problems basic numerical methods are used. These are:
 * Simultaneous differential and algebraic equations (DAE)
 
 ## What is this repository?
-This repository introduces the solution to the collection of ten problems (in brief TenProbsInChE) using Python, Fortran and Matlab.
+This repository introduces the solution to the collection of ten problems (in brief TenProbsInChE) using OpenModelica.
